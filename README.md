@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheSaltyNewfie
-- 👀 I’m interested in Python, C# and Game Reversing
+- 👀 I’m interested in Python, C# and Game Modding
 - 🌱 I’m currently learning C#, C++
 - 📫 How to reach me, on discord with the tag TheSaltyNewfie#3512
 
