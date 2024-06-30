@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am Tobias, a Software Developer from Newfoundland And Labrador, Canada. <br>I enjoy everything from cyber security to general web development.
 
 
